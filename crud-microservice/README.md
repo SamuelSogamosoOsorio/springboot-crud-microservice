@@ -103,7 +103,7 @@ Realiza un respaldo de la base de datos:
 ```bash
 docker pull tuusuario/crudmicro:v1
 ```
-📦 Imagen disponible en: [https://hub.docker.com/r/tuusuario/crudmicro](https://hub.docker.com/r/tuusuario/crudmicro)
+📦 Imagen disponible en: [https://hub.docker.com/r/samuel05x/crudmicro](https://hub.docker.com/r/samuel05x/crudmicro)
 
 ---
 
@@ -114,9 +114,9 @@ Se incluye una colección lista para importar en `docs/thunder-crud-productos.js
 ---
 
 ## 💡 Autor
-Samuel Tinguistinguis
+Samuel Sogamoso Osorio
 
-Proyecto desarrollado como parte del **Parcial 2 - Sistemas Operativos** 🧠💻
+Proyecto desarrollado como parte del **Parcial 2 - Cloud Native** 🧠💻
 
 ---
 
