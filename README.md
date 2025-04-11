@@ -114,9 +114,9 @@ Se incluye una colección lista para importar en `docs/thunder-crud-productos.js
 ---
 
 ## 💡 Autor
-Samuel Tinguistinguis
+Samuel Sogamoso Osorio
 
-Proyecto desarrollado como parte del **Parcial 2 - Sistemas Operativos** 🧠💻
+Proyecto desarrollado como parte del **Parcial 2 - Cloud Native** 🧠💻
 
 ---
 
