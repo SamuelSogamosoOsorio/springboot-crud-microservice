@@ -103,7 +103,7 @@ Realiza un respaldo de la base de datos:
 ```bash
 docker pull tuusuario/crudmicro:v1
 ```
-📦 Imagen disponible en: [https://hub.docker.com/r/tuusuario/crudmicro](https://hub.docker.com/r/samuels05x/crudmicro)
+📦 Imagen disponible en: [https://hub.docker.com/r/samuels05x/crudmicro](https://hub.docker.com/r/samuels05x/crudmicro)
 
 ---
 
