@@ -1,0 +1,81 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "CRUD Productos",
+    "collectionId": "0c5f0557-5672-47c7-861a-93c096bca90c",
+    "dateExported": "2025-04-11T04:02:57.163Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "166f3170-ea79-466a-8f9f-2feb52dbef3a",
+            "colId": "0c5f0557-5672-47c7-861a-93c096bca90c",
+            "containerId": "",
+            "name": "Crear producto",
+            "url": "http://localhost:8081/products",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2025-04-11T03:55:20.846Z",
+            "modified": "2025-04-11T03:55:49.787Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Laptop\",\n  \"price\": 1200.0\n}\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "33ee99d2-e2e1-43bf-8736-68ea2453f074",
+            "colId": "0c5f0557-5672-47c7-861a-93c096bca90c",
+            "containerId": "",
+            "name": "GET producto",
+            "url": "http://localhost:8081/products",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-04-11T03:59:37.968Z",
+            "modified": "2025-04-11T03:59:45.173Z",
+            "headers": []
+        },
+        {
+            "_id": "f17b462e-1c4e-4cbc-91e7-14dce18de415",
+            "colId": "0c5f0557-5672-47c7-861a-93c096bca90c",
+            "containerId": "",
+            "name": "GET by ID product",
+            "url": "http://localhost:8081/products/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2025-04-11T04:00:01.582Z",
+            "modified": "2025-04-11T04:00:10.088Z",
+            "headers": []
+        },
+        {
+            "_id": "0076a9b8-27f6-4fac-affd-7176cfb35fa8",
+            "colId": "0c5f0557-5672-47c7-861a-93c096bca90c",
+            "containerId": "",
+            "name": "UPDATE product",
+            "url": "http://localhost:8081/products/1",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2025-04-11T04:00:22.746Z",
+            "modified": "2025-04-11T04:00:43.534Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Laptop Gamer\",\n  \"price\": 1500.0\n}\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "85c51baf-788d-409e-b7bf-c5ddf1ffe47f",
+            "colId": "0c5f0557-5672-47c7-861a-93c096bca90c",
+            "containerId": "",
+            "name": "Eliminar producto",
+            "url": "http://localhost:8081/products/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2025-04-11T04:00:57.643Z",
+            "modified": "2025-04-11T04:01:19.097Z",
+            "headers": []
+        }
+    ],
+    "ref": "AxO-AyEE53Z8UmpQX0bxndjLPGr5VlyH0Lx6wHoxHPcZ_1qnN62LWL4Vpg_nT7pW-LslQJ7LxPGkrhIhn_duYw"
+}
