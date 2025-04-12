@@ -22,7 +22,7 @@ Este proyecto es un microservicio RESTful desarrollado con **Spring Boot** que p
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/springboot-crud-microservice.git
+git clone https://github.com/samuels05x/springboot-crud-microservice.git
 cd springboot-crud-microservice
 ```
 
