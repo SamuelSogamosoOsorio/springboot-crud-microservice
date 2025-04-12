@@ -22,7 +22,7 @@ Este proyecto es un microservicio RESTful desarrollado con **Spring Boot** que p
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/springboot-crud-microservice.git
+git clone https://github.com/SamuelSogamosoOsorio/springboot-crud-microservice.git
 cd springboot-crud-microservice
 ```
 
@@ -101,7 +101,7 @@ Realiza un respaldo de la base de datos:
 
 🛳️ Puedes obtener la imagen directamente desde Docker Hub:
 ```bash
-docker pull tuusuario/crudmicro:v1
+docker pull samuels05x/crudmicro:v1
 ```
 📦 Imagen disponible en: [https://hub.docker.com/r/samuel05x/crudmicro](https://hub.docker.com/r/samuel05x/crudmicro)
 
